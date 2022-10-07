@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MainModel xmlns:ctl="http://schemas.catelproject.com" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" ctl:graphid="1">
+  <DataId>123</DataId>
+  <DataName>Main Data Name</DataName>
+  <DataCollection ctl:graphid="2">
+    <SubModel ctl:graphid="3" xmlns:d0p0="http://schemas.datacontract.org/2004/07/CatelSpoiledDerialization.Models" i:type="d0p0:SubModel">
+      <SubId>101</SubId>
+      <SubName>SubName 1</SubName>
+    </SubModel>
+    <SubModel ctl:graphid="4" xmlns:d0p0="http://schemas.datacontract.org/2004/07/CatelSpoiledDerialization.Models" i:type="d0p0:SubModel">
+      <SubId>102</SubId>
+      <SubName>SubName 2</SubName>
+    </SubModel>
+    <SubModel ctl:graphid="5" xmlns:d0p0="http://schemas.datacontract.org/2004/07/CatelSpoiledDerialization.Models" i:type="d0p0:SubModel">
+      <SubId>103</SubId>
+      <SubName>SubName 3</SubName>
+    </SubModel>
+    <SubModel ctl:graphid="6" xmlns:d0p0="http://schemas.datacontract.org/2004/07/CatelSpoiledDerialization.Models" i:type="d0p0:SubModel">
+      <SubId>104</SubId>
+      <SubName>SubName 4</SubName>
+    </SubModel>
+    <SubModel ctl:graphid="7" xmlns:d0p0="http://schemas.datacontract.org/2004/07/CatelSpoiledDerialization.Models" i:type="d0p0:SubModel">
+      <SubId>105</SubId>
+      <SubName>SubName 5</SubName>
+    </SubModel>
+  </DataCollection>
+</MainModel>
